@@ -1,0 +1,7 @@
+Before running the program:
+
+
+Go to the terminal and run these commands:
+	a) pip install pillow
+	b) pip install tkcalendar
+	c) pip install mysql.connector
